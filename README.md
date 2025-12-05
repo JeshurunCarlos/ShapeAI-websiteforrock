@@ -1,26 +1,45 @@
-# SHAPEAI WEB DEV BOOTCAMP
-Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
-</b>.
-The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
-learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
-<br><br>Here's the link for you to watch the sessions as well<br>
-<a href="https://youtube.com/playlist?list=PL7zl8TDRnbun7K0fECtSMCI2hOCgLBy9a"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/WebD%20poster.png"> </a>
-<br>I got to have hands on experience on:
-<li>HTML
-<li>CSS
-<br>during these 7 days, and everything was explained from the very basics so that
-anyone with zero experience on programming can learn.
-I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
-www.shapeai.tech
-or follow SHAPEAI on:
-<li><a href=
-"https://in.linkedin.com/company/shapeai">LinkedIn</a>
-<li><a href=
-"https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
-<li><a
-href=
-"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTu
-be</a>
-<li><a href=
-"https://github.com/shapeai">GitHub</a>
+<img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/WebD%20poster.png"> </a>
+# SHAPEAI 7 Days Free Bootcamp Project
 
+This project was created as part of the **7 Days Free Bootcamp** conducted by [SHAPEAI](http://www.shapeai.tech/).  
+The bootcamp was instructed by **Mr. Shaurya Sinha** (Data Analyst Intern at *Jio*), who provided excellent, beginner-friendly guidance throughout the sessions.
+
+---
+
+## 🧠 Learning Experience
+
+During these 7 days, I gained hands-on experience with:
+
+- **HTML**
+- **CSS**
+
+Everything was explained from the very basics, making it easy for anyone—even those with zero programming background—to follow along and build projects confidently.  
+This experience was both **educational** and **enjoyable**, and I’m grateful for the opportunity to learn with SHAPEAI.
+
+---
+
+## 🎥 Watch the Sessions
+
+You can watch the recorded sessions here:  
+➡️ [SHAPEAI YouTube Channel](https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA)
+
+---
+
+## 🚀 Join the Next Bootcamp
+
+Interested in joining the next **free 7-day bootcamp**?  
+Register here: [www.shapeai.tech](http://www.shapeai.tech/)
+
+---
+
+## 🌐 Connect with SHAPEAI
+
+Stay updated and explore more learning opportunities:
+
+- [LinkedIn](https://in.linkedin.com/company/shapeai)
+- [Instagram](https://www.instagram.com/shape.ai/?hl=en)
+- [GitHub](https://github.com/shapeai)
+
+---
+
+> _“Learning is a continuous journey—start yours with SHAPEAI!”_
