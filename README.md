@@ -1,5 +1,5 @@
 <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/WebD%20poster.png"> </a>
-# SHAPEAI 7 Days Free Bootcamp Project
+# SHAPEAI 7 Days Bootcamp Project
 
 This project was created as part of the **7 Days Free Bootcamp** conducted by [SHAPEAI](http://www.shapeai.tech/).  
 The bootcamp was instructed by **Mr. Shaurya Sinha** (Data Analyst Intern at *Jio*), who provided excellent, beginner-friendly guidance throughout the sessions.
@@ -36,7 +36,7 @@ Register here: [www.shapeai.tech](http://www.shapeai.tech/)
 
 Stay updated and explore more learning opportunities:
 
-- [LinkedIn](https://in.linkedin.com/company/shapeai)
+- [LinkedIn](https://www.linkedin.com/school/devtown-in/)
 - [Instagram](https://www.instagram.com/shape.ai/?hl=en)
 - [GitHub](https://github.com/shapeai)
 
